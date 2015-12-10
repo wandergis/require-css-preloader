@@ -1,6 +1,6 @@
 {
   "name": "require-css-preloader",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": " A webpack preloader for requie-css",
   "main": "index.js",
   "scripts": {

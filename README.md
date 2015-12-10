@@ -4,16 +4,16 @@ A webpack preloader to resolove AMD style module using css by requie-css
 ## Installation
 `npm install require-css-preloader`
 
-##Usage
+## Usage
 ```
-	module.exports = {
+module.exports = {
 		module: {
 			preLoaders: [{
 				test: /\.js$/,
 				loader: "require-css-preloader"
-			}]
-		}
+		}]
 	}
+}
 ```
 ## Description
 
