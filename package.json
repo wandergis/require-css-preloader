@@ -1,0 +1,25 @@
+{
+  "name": "require-css-preloader",
+  "version": "0.1.0",
+  "description": " A webpack preloader for requie-css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wandergis/require-css-preloader.git"
+  },
+  "keywords": [
+    "webpack",
+    "require-css-preloader",
+    "AMD",
+    "requirejs"
+  ],
+  "author": "wandergis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wandergis/require-css-preloader/issues"
+  },
+  "homepage": "https://github.com/wandergis/require-css-preloader#readme"
+}
